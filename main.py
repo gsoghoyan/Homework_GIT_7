@@ -1,3 +1,3 @@
-<<<<<<< HEAD
-print("barev barlus")
+
+print("de lav eli Smb")
 
